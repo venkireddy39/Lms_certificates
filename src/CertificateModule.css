@@ -1,0 +1,17 @@
+/* CertificateModule.css */
+
+.nav-pills .nav-link {
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: 0.5rem;
+    padding: 0.45rem 0.9rem;
+}
+
+.nav-pills .nav-link:hover:not(.active) {
+    background-color: #f0f4ff;
+    color: #0d6efd;
+}
+
+.card.border-4 {
+    border-left-width: 4px !important;
+}
